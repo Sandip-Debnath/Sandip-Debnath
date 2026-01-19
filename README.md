@@ -1,166 +1,117 @@
-# Hi, I'm Sandip Debnath 👋
+<h1 align="center">Hey 👋 I'm Sandip Debnath</h1>
+<h3 align="center">Backend Laravel Developer | API Architect | Problem Solver</h3>
 
-**Backend Laravel Developer | PHP | MySQL | REST APIs**
-
-📍 Bangalore, India  
-📧 Email: sandiptalks2u@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sandip-debnath-0287b5252/  
-🐙 GitHub: https://github.com/Sandip-Debnath  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandip-debnath-0287b5252/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="mailto:sandiptalks2u@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=flat&logo=gmail">
+  </a>
+  <a href="https://github.com/Sandip-Debnath">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github">
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Backend Laravel Developer with strong experience in building scalable APIs and admin panels using Laravel. I enjoy converting complex business requirements into clean, secure, and maintainable backend systems.
+Backend Laravel Developer with hands-on experience building **scalable APIs**, **admin panels**, and **business-driven backend systems**.  
+I enjoy converting complex real-world problems into **clean, secure, and maintainable code**.
 
-I have worked on large-scale applications including taxi booking platforms, logistics systems, loyalty management systems, and e-commerce solutions. I focus on performance, security, and clean architecture.
-
-I am currently open to better backend / Laravel opportunities.
-
----
-
-## 💼 Work Experience
-
-### Backend Laravel Developer  
-**Web Digital Mantra IT Solutions**  
-*Jan 2026 – Present*
-
-- Developing backend APIs and admin panels using Laravel
-- Working with authentication, role-based access, and integrations
-- Handling third-party services, payments, and notifications
-
-### Backend Laravel Developer  
-**Innovination**  
-*Aug 2024 – Dec 2025*
-
-- Built scalable Laravel APIs and dashboards
-- Designed database schemas and optimized queries
-- Integrated external APIs and payment gateways
+🏢 Currently working at **Web Digital Mantra IT Solutions**  
+📍 Bangalore, India  
+🎯 Actively open to better backend / Laravel opportunities
 
 ---
 
-## 🧠 Core Skills
+## 🧰 Tech Arsenal
 
-### Backend & APIs
-- PHP
-- Laravel 10+
-- REST API Development
-- Authentication & Authorization
-- Role-Based Access Control (RBAC)
+**Backend & APIs**  
+`PHP` `Laravel 10+` `REST APIs` `Authentication` `RBAC`
 
-### Databases
-- MySQL
-- SQL
-- phpMyAdmin
-- Adminer
+**Database**  
+`MySQL` `SQL` `phpMyAdmin` `Adminer`
 
-### Tools & Platforms
-- Git & GitHub
-- VS Code
-- Azure DevOps (Pipeline Creation & Management)
-- Power BI
-- Advanced MS Excel
-- PowerPoint
+**Tools & Platforms**  
+`Git` `GitHub` `VS Code` `Azure DevOps` `Power BI` `Advanced Excel`
 
 ---
 
-## 🔌 Third-Party Integrations
+## 🔌 Integrations I’ve Worked With
 
-- Amazon S3
-- DigitalOcean Spaces
-- Backblaze B2
-- Firebase Notifications
-- Razorpay
-- Stripe
-- Cashfree Payments
-- Twilio SMS
-- Fast2SMS
-- Brevo Email
-- Mailtrap
-- ChatGPT API
+Amazon S3 · DigitalOcean Spaces · Backblaze B2  
+Firebase Notifications  
+Razorpay · Stripe · Cashfree  
+Twilio · Fast2SMS  
+Brevo · Mailtrap  
+ChatGPT API
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Featured Work
 
-### Loyalty Points Management System (Laravel)
-QR-based loyalty system for manufacturers and retailers.  
-Features include one-time QR codes, user-based rewards, point redemption, and admin control.
-
-### TigerCabs – Mobility Platform (Laravel Backend & APIs)
-- Trip booking & management APIs
-- Driver & partner management
+### 🚕 TigerCabs – Mobility Platform
+**Laravel Backend & APIs**
+- Trip booking & management
+- Driver & partner onboarding
 - Dynamic fare calculation
-- Wallet & payment integration
-- Admin dashboard and reporting
+- Wallet & payment integrations
+- Admin dashboard & reports
 
-### Banna Banni Matrimony (Laravel Backend APIs)
-- Multi-step user registration
-- Partner preference matching
-- Reference verification
-- Admin panel & reports
-- Chat and audio/video call integration
+### 🎁 Loyalty Points Management System
+- One-time QR code generation
+- Loyalty point earn & redeem flow
+- User-type based rewards
+- Secure admin control
 
-### Rocket Logistics Pvt. Ltd (Laravel Backend)
-- Fleet and driver management
+### ❤️ MyAffirm – Mental Wellness Platform
+- Backend APIs for affirmations & healing tools
+- Admin panel for content management
+- Focus on performance & user engagement
+
+### 🏢 Rocket Logistics
+- Fleet & driver management
 - Real-time shipment tracking
-- Warehouse & inventory management
-- Admin dashboard for operations
-
-### Asana Furniture (Laravel E-Commerce Backend)
-- Product & inventory management
-- Order processing & payments
-- Admin dashboard
-- Recommendation system
-
-### MyAffirm (Mental Wellness Platform)
-- Backend APIs for affirmations and healing tools
-- Admin panel management
-- User engagement features
+- Warehouse & inventory systems
+- Admin operational dashboard
 
 ---
 
 ## 📊 Data & Analytics Projects
 
+- BlinkIt Sales Dashboard (Excel)
 - Road Accident Analysis Dashboard (Excel)
-- BlinkIt Sales Analysis Dashboard (Excel)
-- Pizza Sales Analysis (SQL + PowerPoint)
+- Pizza Sales Analysis (SQL + PPT)
 - Diabetes Prediction System (Python)
 - Loan Prediction System (Python)
-- Student Mark Predictor (Python)
 - Web Scraping & Analysis (Python)
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Achievements
 
-**Master of Computer Applications (MCA)**  
-Adamas University — *2024*  
-🎖 Gold Medalist | WB-JECA Rank: 354
-
-**Bachelor of Commerce (Honors)**  
-Dinabandhu Andrews College — *2022*
+🎓 **Master of Computer Applications (MCA)**  
+Adamas University — 2024  
+🥇 Gold Medalist | WB-JECA Rank: 354
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Stats
 
-- PHP & MySQL using Laravel
-- Web Design (HTML, CSS, JavaScript, Bootstrap)
-- ASP.NET MVC
-- SQL Training
-- Advanced Excel
-- Power BI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandip-Debnath&show_icons=true&theme=default" />
+</p>
 
 ---
 
-## 🤝 Soft Skills
+## 🤝 Let’s Connect
 
-- Quick learner
-- Problem solver
-- Team player
-- Can lead when required
+📧 **Email:** sandiptalks2u@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sandip-debnath-0287b5252/  
+🐙 **GitHub:** https://github.com/Sandip-Debnath  
 
 ---
 
-⭐ *I believe in writing clean code that solves real problems.*
+⭐ *Clean code. Real projects. Scalable solutions.*
